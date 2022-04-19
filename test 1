@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>test 1</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+  <div>안녕하세요</div>
+  <p>오늘부터 새롭게 시작하는</p>
+  HTML test 1 입니다.
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" />
+
+  <input type="text"/>
+  <input type="password"/>
+  <button>로그인</button>
+
+  <a href = "https://ko.wikipedia.org/wiki/HTML5"> wiki백과</a>
+  
+  <script src="script.js"></script>
+</body>
+
+</html>
